@@ -1,3 +1,14 @@
+## Introduction
+
+This is a [Jekyll](https://jekyllrb.com/) based blog of Gurpreet.
+
+
+## Ruby and RVM
+
+This project already contains a `.ruby-gemset` and `.ruby-version` file,
+to ensure that if you have RVM installed, then it will install gems
+in the right directory, and give you a unique gemset.
+
 ## Installation & Usage
 
     bundle install
@@ -7,7 +18,12 @@
 
     JEKYLL_ENV=production bundle exec rake site:publish
 
-## Thanks
+## [Gurpreet] Thanks
+
+This blog was forked from https://github.com/willkoehler/. Thank you!
+
+
+## [Original] Thanks
 
 This blog was forked from https://github.com/kippt/jekyll-incorporated. Originally built for
 [sendtoinc.com](https://sendtoinc.com), your workspace for sharing and organizing knowledge.
