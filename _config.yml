@@ -1,7 +1,7 @@
 info:
   # Blog Information
   title:        "Gurpreet Luthra"
-  subtitle:     "Software craftsman & Lead Consultant developer at ThoughtWorks"
+  subtitle:     "Software Craftsman & Lead Consultant Developer at ThoughtWorks"
   cover_image:  general/turkey-water.jpg
   cover_image_caption: "Istanbul, Turkey"
   about_image:  general/thoughtworks-badges.jpg
@@ -42,7 +42,7 @@ url:         http://gsluthra.github.io
 # host 0.0.0.0 allows us to access site via sapphire.local or localhost or 127.0.0.1
 host: 0.0.0.0
 
-paginate:             10
+paginate:             20
 
 # safe mode must be disabled to use jekyll-assets.
 safe:               false
