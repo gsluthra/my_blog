@@ -9,10 +9,10 @@ excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam augue l
 varius ornare est."
 
 author:
-  name: Will Koehler
-  twitter: wckoehler
-  bio: Web developer specializing in full-stack Rails applications.
-  image: wk.jpg
+  name: Gurpreet
+  twitter: _zenx_
+  bio: Software Craftsman and Lead Consultant Developer at ThoughtWorks.
+  image: general/Gurpreet-Small.png
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam augue libero, tincidunt non massa vel,
 varius ornare est. Vivamus elementum orci in commodo pharetra. Proin lorem lorem, convallis sit amet
