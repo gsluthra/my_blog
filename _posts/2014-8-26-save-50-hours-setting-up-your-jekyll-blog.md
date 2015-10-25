@@ -14,7 +14,7 @@ author:
   name: Will Koehler
   twitter: wckoehler
   bio: Web developer specializing in full-stack Rails applications.
-  image: general/Gurpreet-Small.png
+  image: general/gp-square-v.jpg
 ---
 When I decided to start blogging, I explored all the major blogging platforms. I quickly came to the conclusion
 that, in order to get exactly what I wanted, I would need to have full control of the design and code.

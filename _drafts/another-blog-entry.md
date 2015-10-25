@@ -12,7 +12,7 @@ author:
   name: Gurpreet
   twitter: _zenx_
   bio: Software Craftsman and Lead Consultant Developer at ThoughtWorks.
-  image: general/Gurpreet-Small.png
+  image: general/gp-square-v.jpg
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam augue libero, tincidunt non massa vel,
 varius ornare est. Vivamus elementum orci in commodo pharetra. Proin lorem lorem, convallis sit amet
