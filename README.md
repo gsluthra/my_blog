@@ -12,20 +12,29 @@ in the right directory, and give you a unique gemset.
 ## Installation & Usage
 
     bundle install
+
+    # See blog locally on port 4000
     bundle exec jekyll serve
+
+    # See blog locally on port 4000 (with drafts)
+    bundle exec jekyll serve --draft
 
 ## Publish to Github Pages
 
     JEKYLL_ENV=production bundle exec rake site:publish
 
-## [Gurpreet] Thanks
 
-This blog was forked from https://github.com/willkoehler/. Thank you!
+## Jekyll Related Links
+
+[Jekyll From Scratch - Getting Started] (http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/)
 
 
-## [Original] Thanks
+## Thanks
 
-This blog was forked from https://github.com/kippt/jekyll-incorporated. Originally built for
+[Gurpreet] This blog was forked from [https://github.com/willkoehler/](https://github.com/willkoehler/). Thank you!
+
+
+[Original] This blog was forked from https://github.com/kippt/jekyll-incorporated. Originally built for
 [sendtoinc.com](https://sendtoinc.com), your workspace for sharing and organizing knowledge.
 Original template built by:
 
