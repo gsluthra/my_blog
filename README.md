@@ -27,6 +27,7 @@ in the right directory, and give you a unique gemset.
 ## Jekyll Related Links
 
 [Jekyll From Scratch - Getting Started] (http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/)
+[Jekyll Configuration options] (http://jekyllrb.com/docs/configuration/)
 
 
 ## Thanks
