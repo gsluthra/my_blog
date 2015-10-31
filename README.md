@@ -24,11 +24,23 @@ in the right directory, and give you a unique gemset.
 
 ## Publish to Github Pages
 
-Use the following command as-is to publish the pages to Gihub. This command will compile your assets,
-and push only the LATEST stuff (minimal repo) to Github pages. Ensure that you have another remote
-added to your git called 'website' (not origin) which points to your github pages repository.
-
+    # Create a local gh-pages branch which contains only the assets that need to be published
     JEKYLL_ENV=production bundle exec rake site:publish
+
+    # Switch to this new branch
+    git checkout gh-pages
+
+    # FORCE Push the gh-branch to MASTER branch of your github.io repository assuming the remote name is 'website'
+    git push website gh-pages:master --force
+
+    # Once successfully published, tag the current branch
+    git branch -b gh-pages-todays-date
+
+    # Delete the local gh-pages branch.. since we don't need it anymore
+    git branch -D gh-pages
+
+    # Push backup to github
+    git push origin gh-pages-todays-date
 
 
 ## Jekyll Related Links
