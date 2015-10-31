@@ -34,13 +34,13 @@ in the right directory, and give you a unique gemset.
     git push website gh-pages:master --force
 
     # Once successfully published, tag the current branch
-    git branch -b gh-pages-todays-date
+    git checkout -b gh-pages-release-x
 
     # Delete the local gh-pages branch.. since we don't need it anymore
     git branch -D gh-pages
 
     # Push backup to github
-    git push origin gh-pages-todays-date
+    git push origin gh-pages-release-x
 
 
 ## Jekyll Related Links
