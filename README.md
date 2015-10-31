@@ -19,6 +19,9 @@ in the right directory, and give you a unique gemset.
     # See blog locally on port 4000 (with drafts)
     bundle exec jekyll serve --draft
 
+    # Command used by Github to build. Use this to verify if there are any errors
+    bundle exec jekyll build --safe
+
 ## Publish to Github Pages
 
     JEKYLL_ENV=production bundle exec rake site:publish

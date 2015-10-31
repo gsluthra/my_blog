@@ -27,7 +27,7 @@ namespace :site do
       message = "Site updated at #{Time.now.utc}"
       system "git add --all ."
       system "git commit -am #{message.shellescape}"
-      system "git push origin gh-pages --force"
+      system "git push website gh-pages --force"
       system "git checkout master"
       puts "Site published successfully."
     end
