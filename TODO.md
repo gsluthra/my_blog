@@ -7,3 +7,4 @@
 + Add Google Analytics
 + Put a list of my earlier Blogs - with links to Techie Notebook
 + Put a pointer on Techie Notebooks to this new blog page
++ Add Linked in icon at bottom
