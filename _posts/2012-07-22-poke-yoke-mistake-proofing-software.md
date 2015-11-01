@@ -5,7 +5,7 @@ last-modified: '2012-07-22T12:00:00+05:30'
 title: "POKA YOKE - Applying Mistake Proofing to Software"
 subtitle: "A technique for reducing mistakes in software"
 cover_image: general/orange-evening.jpg
-cover_image_caption: "Tibetan artists in Norbulingka Institute, Dharamshala, India"
+cover_image_caption: "Near the Norbulingka Institute, Dharamshala, India"
 
 excerpt: "For years, automobile companies have utilized 'Mistake Proofing' as a technique for ensuring high quality, high speed manufacturing.
 This is also known as Poka-Yoke (in Japanese). This blog attempts to raise awareness (with examples) for the need of Poka Yoke in Software."
