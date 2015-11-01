@@ -20,7 +20,7 @@ info:
     shortname:  false
   
   # Google Analytics tracking ID. Leave blank to disable tracking
-  google-analytics-id: 'UA-XXX-XXX-X'
+  google-analytics-id: 'UA-69555622-1'
   
   # Sharing settings
   sharing:
