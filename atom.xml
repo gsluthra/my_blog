@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Life-Lessons.in</title>
+ <link href="http://www.life-lessons.in/atom.xml" rel="self"/>
+ <link href="http://www.life-lessons.in"/>
+ <updated>2015-11-01T14:47:29+05:30</updated>
+ <id>http://www.life-lessons.in/atom.xml</id>
+ <author>
+   <name>Gurpreet Luthra</name>
+   <uri>http://www.life-lessons.in</uri>
+ </author>
+ 
+ 
+ <entry>
+   <title>I moved to Jekyll</title>
+   <link href="http://www.life-lessons.in/2015/11/01/I-moved-to-Jekyll.html"/>
+   <published>2015-11-01T00:00:00+05:30</published>
+   <updated>2015-11-1T12:00:00+05:30</updated>
+   <id>http://www.life-lessons.in/2015/11/01/I-moved-to-Jekyll</id>
+   <content type="html">&lt;p&gt;My blog on Google Blogspot &lt;a href=&quot;http://techie-notebook.blogspot.in&quot;&gt;techie-notebook.blogspot.in&lt;/a&gt; hit the 100,000 views mark.
+I am super excited. But, I didn’t really like the way my blog looked. I wanted it to be simple. I wanted it to be
+elegant. I wanted to render code, like it should. I wanted the programmer in me, to be in control. So I moved to
+&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Moving forward, I will write my lessons, and thoughts here; and &lt;a href=&quot;http://life-lessons.in&quot;&gt;life-lessons.in&lt;/a&gt; will its home.
+I hope my blog readers will appreciate the move.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
