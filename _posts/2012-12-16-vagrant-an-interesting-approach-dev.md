@@ -24,4 +24,4 @@ Most often, time is spent on setting environment variables, handling software ve
 Not to mention, that once you are done, doing this for the next project would be even more challenging.
 
 Read the full blog on my older site:
-[8 Months at ThoughtWorks Pune](http://techie-notebook.blogspot.in/2012/02/8-months-at-thoughtworks-pune.html)
+[Vagrant: An interesting approach to setup development environments FAST!](http://techie-notebook.blogspot.in/2012/12/vagrant-interesting-approach-to-setup.html)
