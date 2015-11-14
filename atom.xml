@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Life-Lessons.in</title>
+ <link href="http://life-lessons.in/atom.xml" rel="self"/>
+ <link href="http://life-lessons.in"/>
+ <updated>2015-11-14T19:15:31+05:30</updated>
+ <id>http://life-lessons.in/atom.xml</id>
+ <author>
+   <name>Gurpreet Luthra</name>
+   <uri>http://life-lessons.in</uri>
+ </author>
+ 
+ 
+ <entry>
+   <title>I moved to Jekyll</title>
+   <link href="http://life-lessons.in/2015/11/01/I-moved-to-Jekyll.html"/>
+   <published>2015-11-01T00:00:00+05:30</published>
+   <updated>2015-11-1T12:00:00+05:30</updated>
+   <id>http://life-lessons.in/2015/11/01/I-moved-to-Jekyll</id>
+   <content type="html">&lt;p&gt;My blog on Google Blogspot &lt;a href=&quot;http://techie-notebook.blogspot.in&quot;&gt;techie-notebook.blogspot.in&lt;/a&gt; hit the 100,000 views mark.
+I am super excited. But, I didn’t really like the way my blog looked. I wanted it to be simple. I wanted it to be
+elegant. I wanted to render code, like it should. I wanted the programmer in me, to be in control. So I moved to
+&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Moving forward, I will write my lessons, and thoughts here; and &lt;a href=&quot;http://life-lessons.in&quot;&gt;life-lessons.in&lt;/a&gt; will its home.
+I hope my blog readers will appreciate the move.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Understanding Vagrant Boxes & VMs</title>
+   <link href="http://life-lessons.in/2015/10/03/understanding-vagrant-boxes.html"/>
+   <published>2015-10-03T00:00:00+05:30</published>
+   <updated>2015-10-03T12:00:00+05:30</updated>
+   <id>http://life-lessons.in/2015/10/03/understanding-vagrant-boxes</id>
+   <content type="html">&lt;p&gt;Vagrant is an awesome tool for developers to get their own sandboxed environments to play with.
+To understand more about &lt;strong&gt;Why Vagrant&lt;/strong&gt;, you could read my earlier blog post:
+&lt;a href=&quot;http://techie-notebook.blogspot.in/2012/12/vagrant-interesting-approach-to-setup.html&quot;&gt;Vagrant: An interesting approach to setup development environments FAST&lt;/a&gt;.
+But, because Vagrant does a lot of things auto-magically under the hoods, most of the times people are left confused
+when they want to delete or add boxes or VMs. I will try and explain the relationships between Base Boxes, VMs, Virtual Box
+Instances, etc in this post.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The term &lt;em&gt;box&lt;/em&gt; is loosely used by many people, and hence the confusion has risen even further.&lt;/p&gt;
+
+&lt;p&gt;Read the full blog on my older site:
+&lt;a href=&quot;http://techie-notebook.blogspot.in/2015/10/understanding-vagrant-boxes-vms.html&quot;&gt;Understanding Vagrant Boxes and VMs&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Difference between sorted, sortWith and sortBy in Scala</title>
+   <link href="http://life-lessons.in/2014/07/26/scala-diff-between-sort-methods.html"/>
+   <published>2014-07-26T00:00:00+05:30</published>
+   <updated>2014-07-26T12:00:00+05:30</updated>
+   <id>http://life-lessons.in/2014/07/26/scala-diff-between-sort-methods</id>
+   <content type="html">&lt;p&gt;Scala collections provide you three options for sorting: &lt;code&gt;sorted()&lt;/code&gt;, &lt;code&gt;sortWith()&lt;/code&gt; and &lt;code&gt;sortBy()&lt;/code&gt;. Here is a simplified explanation:&lt;/p&gt;
+
+&lt;h3 id=&quot;sorted&quot;&gt;sorted&lt;/h3&gt;
+&lt;p&gt;Will sort the list using the natural ordering (based on the implicit Ordering passed)&lt;/p&gt;
+
+&lt;h3 id=&quot;sortby-an-attribute&quot;&gt;sortBy (an attribute)&lt;/h3&gt;
+&lt;p&gt;Sort by a given attribute using the attribute’s type.
+e.g. given a list of &lt;code&gt;Person&lt;/code&gt; objects, if you want to sort them in ascending order of their age
+(which is an &lt;code&gt;Int&lt;/code&gt;), you could simply say:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-scala&quot; data-lang=&quot;scala&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;personList&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sortBy&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;age&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;sortwith-a-function&quot;&gt;sortWith (a function)&lt;/h3&gt;
+&lt;p&gt;Takes a comparator function. Useful when you want to specify a custom sorting logic.
+e.g. if you want to sort by age descending, you could write this as:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-scala&quot; data-lang=&quot;scala&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;personList&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sortWith&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;leftE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rightE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;=&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt;      &lt;span class=&quot;n&quot;&gt;leftE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;age&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rightE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;age&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Or, more simply:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-scala&quot; data-lang=&quot;scala&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;personList&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sortWith&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;age&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;age&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;a-full-example&quot;&gt;A full example&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-scala&quot; data-lang=&quot;scala&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Sequence of numbers&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;val&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;xs&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Seq&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Sort using Natural ordering as defined for Integers in Scala Library&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;xs&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sorted&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//1,2,3,4,5,6&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Sort &amp;#39;with&amp;#39; a comparator function&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;xs&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sortWith&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//1,2,3,4,5,6&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;xs&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sortWith&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//6,5,4,3,2,1&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;xs&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sortWith&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;left&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//6,5,4,3,2,1&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Create a Person class&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Person&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;val&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;val&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;age&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;Int&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Define a list of Persons&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;val&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ps&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Seq&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Person&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;John&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;32&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Person&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Bruce&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;24&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Person&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Cindy&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;33&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Person&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Sandra&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;18&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Sort People by increasing Age (natural ordering of Int will kick in)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ps&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sortBy&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;age&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//List(Person(Sandra,18), Person(Bruce,24), Person(John,32), Person(Cindy,33))&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Sort People by decreasing Age, using a comparator function&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ps&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sortWith&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;age&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;age&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//List(Person(Cindy,33), Person(John,32), Person(Bruce,24), Person(Sandra,18))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vagrant: An interesting approach to setup development environments FAST!</title>
+   <link href="http://life-lessons.in/2012/12/16/vagrant-an-interesting-approach-dev.html"/>
+   <published>2012-12-16T00:00:00+05:30</published>
+   <updated>2012-12-16T12:00:00+05:30</updated>
+   <id>http://life-lessons.in/2012/12/16/vagrant-an-interesting-approach-dev</id>
+   <content type="html">&lt;p&gt;If you have never heard of Vagrant, or are interested in understanding what is Vagrant, then this blog should be useful to you.&lt;/p&gt;
+
+&lt;p&gt;Setting up a development environment for many projects now-a-days isn’t a matter of simply running a script or downloading
+a piece of software. On most projects, the average setup time to get all up and running is usually a day, and sometimes more.
+Most often, time is spent on setting environment variables, handling software version conflicts, or general configuration.
+Not to mention, that once you are done, doing this for the next project would be even more challenging.&lt;/p&gt;
+
+&lt;p&gt;Read the full blog on my older site:
+&lt;a href=&quot;http://techie-notebook.blogspot.in/2012/12/vagrant-interesting-approach-to-setup.html&quot;&gt;Vagrant: An interesting approach to setup development environments FAST!&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>POKA YOKE - Applying Mistake Proofing to Software</title>
+   <link href="http://life-lessons.in/2012/07/22/poke-yoke-mistake-proofing-software.html"/>
+   <published>2012-07-22T00:00:00+05:30</published>
+   <updated>2012-07-22T12:00:00+05:30</updated>
+   <id>http://life-lessons.in/2012/07/22/poke-yoke-mistake-proofing-software</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Note: This has been one of my highest read blog posts ever.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For years, automobile companies have utilized “Mistake Proofing” as a technique for ensuring high quality,
+high speed manufacturing – especially in cases of mass scale production.
+This is also known as Poka-Yoke (in Japanese) and was adopted and formalized as part of the Toyota Production System.
+This blog attempts to raise awareness (with examples) for the need of Poka Yoke in Software Design and
+within the Software Development process.&lt;/p&gt;
+
+&lt;p&gt;Read the full blog on my older site:
+&lt;a href=&quot;http://techie-notebook.blogspot.in/2012/07/poka-yoke-applying-mistake-proofing-to.html&quot;&gt;POKA YOKE - Applying Mistake Proofing to Software&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>8 months at ThoughtWorks Pune</title>
+   <link href="http://life-lessons.in/2012/02/25/eight-months-at-tw-pune.html"/>
+   <published>2012-02-25T00:00:00+05:30</published>
+   <updated>2012-02-25T12:00:00+05:30</updated>
+   <id>http://life-lessons.in/2012/02/25/eight-months-at-tw-pune</id>
+   <content type="html">&lt;p&gt;I joined ThoughtWorks, Pune in June 2011. 8 months ago.
+Previously I had worked with Persistent Systems, IBM Software Labs and Performix (a start-up).
+I would like to pen down my ThoughtWorks journey so far. Correction. Incredible journey.&lt;/p&gt;
+
+&lt;p&gt;For sake of readability, let’s list down the things I feel are awesome and different about ThoughtWorks,
+and why I catch myself wondering why the hell did I not apply to ThoughtWorks earlier. For the record,
+I joined ThoughtWorks as a Senior Consultant, and my role here is Programming, Programming and yeah Programming. :)
+Lets see.. what this means.&lt;/p&gt;
+
+&lt;p&gt;Read the full blog on my older site:
+&lt;a href=&quot;http://techie-notebook.blogspot.in/2012/02/8-months-at-thoughtworks-pune.html&quot;&gt;8 Months at ThoughtWorks Pune&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
