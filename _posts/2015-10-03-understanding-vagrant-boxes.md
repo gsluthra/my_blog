@@ -2,7 +2,7 @@
 layout: post
 last-modified: '2015-10-03T12:00:00+05:30'
 
-title: "Understanding Vagrant Boxes & VMs"
+title: "Understanding Vagrant Boxes and VMs"
 subtitle: "Clearing the confusion around Vagrant boxes"
 cover_image: general/orange-evening.jpg
 cover_image_caption: "Near the Norbulingka Institute, Dharamshala, India"
