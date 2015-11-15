@@ -7,7 +7,7 @@ subtitle: "A list of podcasts to bookmark and listen"
 cover_image: general/orange-evening.jpg
 cover_image_caption: "Near the Norbulingka Institute, Dharamshala, India"
 
-excerpt: "This post is an list of podcasts I have heard, and really liked. I will update this post as I find more podcasts I like, so do think about bookmarking it."
+excerpt: "This post is a list of podcasts I have really liked. I will update this post as I find more podcasts I like, so do consider bookmarking it."
 
 author:
   name: Gurpreet Luthra
