@@ -1,12 +1,12 @@
 info:
   # Blog Information
-  title:        "Life-Lessons.in"
+  title:        "life-lessons.in"
   subtitle:     "Adventures in Software and Life"
   cover_image:  general/turkey-water.jpg
   cover_image_caption: "Istanbul, Turkey"
   about_image:  general/pottery.jpg
   about_image_caption: "Learning Pottery in Dharamshala, India"
-  logo:         general/Gurpreet_Sign.png
+  logo:         LL-logo.png
   og-image: general/turkey-water-share.jpg
   
   # Social links
