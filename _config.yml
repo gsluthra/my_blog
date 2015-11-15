@@ -18,7 +18,7 @@ info:
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    shortname:  false
+    shortname:  "life-lessons-in"
   
   # Google Analytics tracking ID. Leave blank to disable tracking
   google-analytics-id: 'UA-69555622-1'
