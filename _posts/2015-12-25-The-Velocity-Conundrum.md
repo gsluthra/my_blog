@@ -75,7 +75,9 @@ Velocity as a metric, will be useful only if the team is passionate about delive
 
 ### Conclusion
 
-Velocity should be treated as a guide against which you plan the next iteration, and measure the impact of your adjustments or fixes. Velocity also acts as an approximate tool to provide visibility into when certain features will make it into the release. And velocity is _NOT_ a measure of the quality of the work being done by the team or of the productivity of the team.
+Velocity should be treated as a guide using which you plan the next iteration, and measure the impact of your adjustments or fixes. Velocity also acts as an approximate tool to provide visibility into when certain features will make it into the release.
+
+Velocity is _NOT_ a measure of the quality of the work being done by the team or of the productivity of the team.
 
 
 ### Further Reading
