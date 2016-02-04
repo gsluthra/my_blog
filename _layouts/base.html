@@ -16,7 +16,13 @@
   {% if page.author.gplus %}<link rel="author" href="https://plus.google.com/{{ page.author.gplus }}">{% endif %}
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.info.title }}{% endif %}"/>
   <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
-  <meta property="og:image" content="{{ site.url }}/images/{{ site.info.og-image }}"/>
+  {% if page.og-image %}
+      <meta property="og:image" content="{{ site.url }}/images/{{ page.og-image }}"/>
+  {% else %}
+      <meta property="og:image" content="{{ site.url }}/images/{{ site.info.og-image }}"/>
+  {% endif %}
+
+
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt }}"/>
   <meta name="description" content="{{ page.excerpt }}"/>

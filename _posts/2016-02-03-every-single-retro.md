@@ -6,6 +6,7 @@ title: "Every Single Retro"
 subtitle: "When was the last time you attended a retro. Did you encounter these things?"
 cover_image: general/orange-evening.jpg
 cover_image_caption: "Near the Norbulingka Institute, Dharamshala, India"
+og-image: "general/EverySingleRetro.jpg"
 
 excerpt: "The definition of a retro can be captured easily by this poster."
 
