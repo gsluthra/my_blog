@@ -17,7 +17,7 @@ author:
   image: general/gp-square-v.jpg
 ---
 
-*Note: This has been one of my highest read blog posts ever.*
+*Note: This has been one of my highest read blog posts ever with over 100,000 views. I am humbled. Thank you!*
 
 For years, automobile companies have utilized "Mistake Proofing" as a technique for ensuring high quality,
 high speed manufacturing -- especially in cases of mass scale production.
@@ -26,4 +26,4 @@ This blog attempts to raise awareness (with examples) for the need of Poka Yoke 
 within the Software Development process.
 
 Read the full blog on my older site:
-[POKA YOKE - Applying Mistake Proofing to Software](http://techie-notebook.blogspot.in/2012/07/poka-yoke-applying-mistake-proofing-to.html)
+[POKA YOKE -- Applying Mistake Proofing to Software](http://techie-notebook.blogspot.in/2012/07/poka-yoke-applying-mistake-proofing-to.html)
