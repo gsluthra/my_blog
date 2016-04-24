@@ -1,6 +1,6 @@
 ---
 layout: post
-last-modified: '2016-03-03T12:00:00+05:30'
+last-modified: '2016-04-24T12:00:00+05:30'
 
 title: "Mars Rover Problem in Scala"
 subtitle: "Companion code to Priyank's blog"
