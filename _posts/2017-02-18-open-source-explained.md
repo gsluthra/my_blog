@@ -3,7 +3,7 @@ layout: post
 last-modified: '2017-02-18T12:00:00+05:30'
 
 title: "Understanding Open Source Software"
-subtitle: "A Developers guide to understanding Open Source Software"
+subtitle: "A Developer's guide to understanding Open Source Software"
 cover_image: general/orange-evening.jpg
 cover_image_caption: "Near the Norbulingka Institute, Dharamshala, India"
 og-image: "general/orange-evening.jpg"
@@ -30,7 +30,7 @@ Most people explain _Open Source Software (OSS)_ as --- a software that has made
 That is an incomplete and incorrect definition of the term _Open Source Software_.
 
 An Open Source Software is software where the code is not only freely available to view, but also to
-modify, and re-distribute, and has an associated License that allows for this to happen.
+modify, and redistribute, and has an associated License that allows for this to happen.
 This is how Wikipedia defines [Open Source Software (OSS)](https://en.wikipedia.org/wiki/Open-source_software):
 
 _Open-source software (OSS) is computer software with its source code made available with a license
@@ -42,7 +42,7 @@ itself Open Source.
 
 A more precise, easy-to-understand and widely referenced definition of Open Source Software is maintained
  and managed by the Open Source Initiative (OSI) on this page: [Open Source Definition](https://opensource.org/osd-annotated).
- It mentions 10 criteria that should be satisfied by the distribution terms of the sofware license for it to be accepted as Open Source.
+ It mentions 10 criteria that should be satisfied by the distribution terms of the software license for it to be accepted as Open Source.
  Some of these criteria are: Free redistribution, must have easy access to un-obfuscated source code, should allow modifications and distribution
  of these modifications, should be free of discrimination against people/geographies/groups/field of endeavour/technology stack, etc.
 
@@ -59,7 +59,7 @@ All these licenses are recognized as Open Source Licenses, and hence should prov
 does OSS mean -- but there is always something unique about each license that makes them stand apart. This is why you need a lawyer. Your
 motivations and business model will affect the choice of license.
 
-For instance, some licenses can be [viral in nature](https://en.wikipedia.org/wiki/Viral_license), like the GPL license. If you use a GPL Licensed software library in your software you will have to make your own software freely available under the GPL License. Obviously, if you are a commercial, proprietary software developer you **DO NOT** want to do that to your proprietary software!  Do check out: [Can I use GPL software in a commerical application?](https://softwareengineering.stackexchange.com/questions/47032/can-i-use-gpl-software-in-a-commercial-application)
+For instance, some licenses can be [viral in nature](https://en.wikipedia.org/wiki/Viral_license), like the GPL license. If you use a GPL Licensed software library in your software you will have to make your own software freely available under the GPL License. Obviously, if you are a commercial, proprietary software developer you **DO NOT** want to do that to your proprietary software!  Do check out: [Can I use GPL software in a commercial application?](https://softwareengineering.stackexchange.com/questions/47032/can-i-use-gpl-software-in-a-commercial-application)
 As an example -- iText is a library for generating PDFs which is provided under an AGPL license (free) and also under a commercial license (paid). You will not be able to use its free version for commercial software for the same reasons articulated above. Read about [iText License implications here](http://itextpdf.com/legal).
 
 An interesting related article: [The Decline of GPL?](https://opensource.com/article/17/2/decline-gpl)
@@ -82,7 +82,7 @@ Yes. A lot of companies and people make money with Open Source Software. There a
 
 If you are a developer, a QA, a BA, a technologist -- you have very little excuse to not be involved in some Open Source Software. Why should you limit your exposure, experience and learnings to _only_ the project you are on? Why not contribute and learn from the zillions of OSS that are out there. Most of these softwares are looking for technical contributions and to make greater impact.
 
-Pick a topic that you love. Or a software you would be interested in. Do you like Security, Music, Medicine, Programming Languages, Painting, Maths, Teaching, Kids, Criminology, Guitar, Sports, Gym, FILL-IN-THE-BLANKS? Find an OSS in your chosen area, whatever motivates you, and jump in. Projects need help on everything under the sun -- from developing small/large features, to writing unit/integration/functional tests, to setting up CI/CD servers, to documentation, to creating stories, to fixing bugs, to creating presentations, to publishing videos, to organizing events, to evaluating libraries, to helping in rollouts and implementations of their softwares, to.... you get it. Whatever you do in your orgnaization on your project; the OSS also needs that to be done.
+Pick a topic that you love. Or a software you would be interested in. Do you like Security, Music, Medicine, Programming Languages, Painting, Maths, Teaching, Kids, Criminology, Guitar, Sports, Gym, FILL-IN-THE-BLANKS? Find an OSS in your chosen area, whatever motivates you, and jump in. Projects need help on everything under the sun -- from developing small/large features, to writing unit/integration/functional tests, to setting up CI/CD servers, to documentation, to creating stories, to fixing bugs, to creating presentations, to publishing videos, to organizing events, to evaluating libraries, to helping in rollouts and implementations of their softwares, to.... you get it. Whatever you do in your organisation on your project; the OSS also needs that to be done.
 Plus, you can be a QA contributing to Development tasks, or a Dev contributing to recording videos, and so on.. because no one cares what "role" you come from -- it's what you want to do!
 
 Most OSS projects will have a chatroom on IRC/Slack/etc, a mailing list, a public version control repository (likely Github), a public task management system (like JIRA, Github Issues, Trello, etc), and periodic virtual meetings. If you go in with sincerity, and resolve --- your work will be highly appreciated.
@@ -97,8 +97,8 @@ A short list of suggestions from my side. It's a drop in the ocean. The importan
 - [Moodle](https://moodle.org/): Free Learning Management System
 - [KeepassX](https://github.com/keepassx/keepassx): Cross platform Password Manager
 - [BugZilla](https://www.bugzilla.org/): Task Management and Issue Management System
-- [Ushahidi](https://www.ushahidi.com/): Real time, croud-sourced crisis management and mapping tool
-- [Audactiy](https://github.com/audacity/audacity): Digital Audio Editor
+- [Ushahidi](https://www.ushahidi.com/): Real time, crowdsourced crisis management and mapping tool
+- [Audacity](https://github.com/audacity/audacity): Digital Audio Editor
 - [Wikipedia/List of Open Source Softwares](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages): Huge list of Open Source softwares by category
 
 
