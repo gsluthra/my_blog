@@ -9,7 +9,7 @@ cover_image_caption: "My acoustic guitar - Greg Bennett"
 og-image: "general/guitar.jpg"
 
 excerpt: "In this blog I explain what Open Source Software (OSS) means, a little about licenses, business models around OSS and why developers should contribute to OSS. In the end I provide a link to a podcast 
-on Myths and Truths in Open Source Software"
+on Myths and Truths in Open Source Software."
 
 author:
   name: Gurpreet Luthra
