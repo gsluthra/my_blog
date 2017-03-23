@@ -109,3 +109,9 @@ The Open Source Software movement is big. It’s time to jump in. Give back. Lea
 
 **If you liked this article, you may also like this podcast I recorded with Karl Brown from ThoughtWorks
 where we talk about [Myths & Truths in Open Source Software](https://www.thoughtworks.com/insights/blog/podcast-open-source-myths-and-truths).**
+
+## Further Reading on Open Source
+
+- [Free as in Beer, or Free as in Speech -- Understanding the difference](https://www.howtogeek.com/howto/31717/what-do-the-phrases-free-speech-vs.-free-beer-really-mean/)
+- [Difference between Open Source License vs Copyright vs Trademark](http://twiki.org/cgi-bin/view/Blog/BlogEntry201207x1)
+- [Book: The Success of Open Source by Steven Weber](http://www.amazon.in/Success-Open-Source-Steven-Weber/dp/0674018583)
