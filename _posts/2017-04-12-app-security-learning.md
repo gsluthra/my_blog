@@ -3,7 +3,7 @@ layout: post
 last-modified: '2017-04-12T12:00:00+05:30'
 
 title: "12 Things I Learnt While Teaching Application Security"
-subtitle: "Fascinating information I stumbled upon while preparing for security training"
+subtitle: "Fascinating stuff I stumbled upon while preparing for security training"
 cover_image: general/turkey-ocean-1.jpg
 cover_image_caption: "Turkey"
 og-image: "general/turkey-ocean-1.jpg"
