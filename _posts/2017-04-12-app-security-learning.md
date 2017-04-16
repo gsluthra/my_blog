@@ -29,7 +29,7 @@ Technology now exists that can detect if the person who is typing on the keyboar
 
 1. [KeyTrac online demo](https://www.keytrac.net/en/tryout/authenticate)
 2. [TypingDNA online demo](http://typingdna.com/demo-api.html) ([YouTube Video](https://www.youtube.com/watch?v=yH2CqAiY4KA))
-3. [BehavioSec](https://www.behaviosec.com/features/#how-it-works): Uses keyboard and touch geusters to identify you!
+3. [BehavioSec](https://www.behaviosec.com/features/#how-it-works): Uses keyboard and touch gestures to identify you!
 
 
 ## Topic 2: How NOT to store passwords
