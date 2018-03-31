@@ -1,12 +1,12 @@
 ---
 layout: post
-last-modified: '2018-03-30T12:00:00+05:30'
+last-modified: '2018-03-31T11:00:00+05:30'
 
 title: "Are You Telling A Story?"
 subtitle: "Harness the art of story telling to make presentations memorable"
-cover_image: general/turkey-ocean-1.jpg
-cover_image_caption: "Turkey"
-og-image: "general/turkey-ocean-1.jpg"
+cover_image: general/martin-backpacker-guitar.jpg
+cover_image_caption: "My Martin Backpacker"
+og-image: "general/martin-backpacker-guitar.jpg"
 
 excerpt: "In this blog I share a few insights on how one can make presentations more memorable by harnessing the art of story telling."
 
@@ -40,7 +40,7 @@ Which of the above talks do you wish to know more about? I would love to hear mo
 > "People want to hear stories. People like to tell stories."
 
 **Student:** _That makes sense. But not every talk can have a story. How do I create a story on Docker Networking?_  
-**Teacher:** A story has the following five parts: 
+**Teacher:** A story has the following [five parts](http://www.katiekazoo.com/pdf/KK_FiveEssentialElements.pdf): 
 
    1. The Characters (people)
    2. The Setting (context)
@@ -64,6 +64,8 @@ You find a story by asking a series of questions which connect why, who, how, wh
  * What would happen to this happy person if Docker networking stopped workin while the system was running?
 
 As you keep asking such questions, you will uncover a story. Or you can invent one. 
+
+Here is an example of a Kubernetes Networking story: [Climbing The Sawtooth - A classic production puzzle](https://www.youtube.com/watch?v=v50uJMCLQP4) - by Girish Verma from ThoughtWorks.
 
 **Student:** _What else can I do to make my presentations effective?_   
 **Teacher:** Connect with the audience, provide metaphors that they can relate to. A good metaphor is one that people remember. A bad metaphor is one that might be accurate but no one can recall. 
@@ -90,16 +92,24 @@ If I see someone who raises her hand for the last question on my list (60+ servi
 
 Usually, the opinion of the experts in the audience matters a lot to the peers. 
 
-<img src="http://assets.amuniversal.com/28a75140e4f3012fed51001dd8b71c47" alt="Dilbert 13-June-2012"/>
-[(c) Scott Adams. Image from: http://dilbert.com/strip/2012-06-13](http://dilbert.com/strip/2012-06-13)
+<img src="http://assets.amuniversal.com/28a75140e4f3012fed51001dd8b71c47" alt="Dilbert 13-June-2012" style="width: 800px;"/>
+[(c) Scott Adams. http://dilbert.com/strip/2012-06-13](http://dilbert.com/strip/2012-06-13)
 
 Once you know how your audience is segmented, what background they are from, you will find it easier to give appropriate metaphors and anecdotes. As an extreme example, imagine, if everyone in the audience was a kid, won't you give appropriate anecdotes once you knew that. 
 
 **Student:** _I like that. I will try that the next time I present. Do you have any other tips for me?_   
 **Teacher:** Yes, one more. A good image is a powerful anchor, and a great canvas to speak on. Use a photograph, or a screenshot, or a diagram, or a sketch, or a portrait, or even a video as a backdrop for your slides. Narrate your story as a sequence of images. Avoid slides which are text heavy. Keep them light. Keep them pretty. Or keep them funny. In most of my talks, a picture usually speaks 300 words.
 
-**Student:** So -- a story, some connecting metaphors and images. 3 elements of success._   
+**Student:** _So a story, understanding the audience, using connecting metaphors and images. 4 elements of success._   
 **Teacher:** That is one way to put it.      
 
 **Student:** _Thank you! This was a good story. Do you have another one?_   
 **Teacher:** Once upon a time... 
+
+<img src="/images/general/calvin-going-into-future-for-a-story.png" alt="Calvin 23-May-1992" style="width: 800px;"/>
+[Comic from: http://www.gocomics.com/calvinandhobbes/1992/5/23](http://www.gocomics.com/calvinandhobbes/1992/5/23)
+
+### Further Reading: 
+
+* [How to Tell a Great Story (HBR)](https://hbr.org/2014/07/how-to-tell-a-great-story)
+
