@@ -52,7 +52,7 @@ You find a story by asking a series of questions which connect why, who, how, wh
 
  * Why do I want to speak about Docker networking?
  * Why does it matter how Docker does networking?
- * What the hell is Docker? 
+ * What really is Docker? 
  * Who uses Docker? 
  * How did people work before Docker?
  * Which project do I know that uses Docker?
