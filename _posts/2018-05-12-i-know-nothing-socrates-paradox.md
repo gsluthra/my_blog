@@ -4,9 +4,9 @@ last-modified: '2018-05-12T11:00:00+05:30'
 
 title: "I Know That I Know Nothing"
 subtitle: "A model for helping us deal with the Socrates Paradox"
-cover_image: general/colombo_beach_image.jpg
+cover_image: general/colombo_beach_image_small.jpg
 cover_image_caption: "Beach side in Colombo, Sri Lanka"
-og-image: "general/colombo_beach_image.jpg"
+og-image: "general/colombo_beach_image_small.jpg"
 
 excerpt: "In this blog I introduce a model for helping us articulate unknowns in our knowledge and in projects."
 
