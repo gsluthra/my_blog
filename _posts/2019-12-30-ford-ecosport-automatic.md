@@ -2,7 +2,7 @@
 layout: post
 last-modified: '2019-12-30T11:00:00+05:30'
 
-title: "10 reasons for buying the Ford EcoSport Petrol (Automatic)"
+title: "10 reasons for buying the Ford EcoSport Petrol (Automatic) - Review"
 subtitle: "The best automatic petrol car in the 10-20L range in 2019"
 cover_image: general/EcoSport_Amazon.jpg
 cover_image_caption: "Ford EcoSport"

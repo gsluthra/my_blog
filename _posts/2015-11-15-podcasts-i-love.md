@@ -16,17 +16,18 @@ author:
   image: general/gp-square-v.jpg
 ---
 
+
 Driving in India is a test of patience. And a waste of time.
 
-A few months ago, I decided to try an experiment while driving to office (about a 30 minutes ride one way).
-Podcasts.
+A few months ago, I decided to try an experiment while driving to office, about a 30 minute ride each way.
+The experiment was: Podcasts.
 
 Turns out, I had uncovered something amazing. Podcasts made me forget the time I spend on the road, and instead opened a window to a world I didn't know existed.
 I now found an opportunity to hear interviews and stories, of lives of people, in far away places.
 People, whose stories, I would otherwise never have heard.
 
 
-He is a list (I plan to keep up-to-date), with a list of podcasts I really enjoyed, or were super thought-provoking. If you like these, please bookmark this post.
+Here is a list of podcasts I really enjoyed, or were super thought-provoking. If you like these, please bookmark this post. I will constantly update this as I come across more interesting podcasts.
 
 <img src="http://englishminds.co.uk/wp-content/uploads/2014/06/Podcast.jpg" alt="Podcasts" style="width: 200px;"/>
 
@@ -54,6 +55,13 @@ It isn't what you think it is.
 13. [[NPR Hidden Brain] Tribes & Traitors](http://www.npr.org/2017/03/06/518786831/tribes-traitors-what-happens-when-you-empathize-with-the-enemy): What Happens When You Empathize with the Enemy?: The more trauma an individual or a group has experienced, the harder it can be to acknowledge the suffering of the other side. A look into the life of a former Israeli paratrooper and a Palestinanian professor who empathized with the other side.
 14. [[NPR Hidden Brain] In Praise of Mess](http://www.npr.org/2016/11/29/503594516/in-praise-of-mess-why-disorder-may-be-good-for-us): Why Disorder May Be Good For Us: In this episode of Hidden Brain, economist and writer Tim Harford talks about how an embrace of chaos is beneficial to musicians, speechmakers, politicians – and the rest of us.
 15. [[Farnam Street] Interview with Naval Ravikant](https://fs.blog/naval-ravikant/): Words of wisdom on life, decision making, the importance of reading, meditation and a lot of other topics. This is one of the best podcasts I have heard. You can also read the audio transcript [here](https://www.fs.blog/wp-content/uploads/2017/02/Naval-Ravikant-TKP.pdf).
+16. [[Farnam Street] Trust Battery - Interview with found of Shopify](https://fs.blog/tobi-lutke/): In this podcast, Shane Parrish interviews the founder and CEO of Shopify, Tobi Lütke. Tobi's insights on topics such as excellence, diversity, culture, building long lasting companies, talent attraction, etc. are truly thought-provoking! The audio transcript is [here](https://www.listennotes.com/podcasts/the-knowledge/41-the-trust-battery-with-4H1KyEX_kcl/).
+17. [The Seen and Unseen](https://seenunseen.in/) - A podcast series on Indian Politics, Economics and Public Policy hosted by Amit Varma, provides an in-depth analysis on various topics relevant to Indians today. Some notable episodes that I really liked: 
+	- [Fighting Fake News](https://seenunseen.in/episodes/2019/8/12/episode-133-fighting-fake-news/) (with Pratik Sinha of Alt News), 
+	- [Building Sports EcoSystems](https://seenunseen.in/episodes/2019/6/24/episode-126-building-sports-ecosystems/) (with Joy Bhattacharjya), 
+	- [Crime In Indian Politics](https://seenunseen.in/episodes/2019/4/1/episode-114-crime-in-indian-politics/) (with Milan Vaishnav),  
+	- [The #MeToo Movement](https://seenunseen.in/episodes/2018/10/15/episode-90-the-metoo-movement/) (with Supriya Nair and Nikita Saxena).
 
-I usually listen to podcasts on the [Iphone podcast app](https://itunes.apple.com/in/app/podcasts/id525463029?mt=8&ign-mpt=uo%3D4).
+I usually listen to podcasts on the [Iphone podcast app](https://itunes.apple.com/in/app/podcasts/id525463029?mt=8&ign-mpt=uo%3D4), but you should be able to find these podcasts on any podcast app like Stitcher, Spotify, etc, and also directly on the internet. 
 
+[_**This blog was last updated on 16-Jan-2020.**_]
