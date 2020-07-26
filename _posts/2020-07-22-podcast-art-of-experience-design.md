@@ -20,7 +20,7 @@ author:
 
 <iframe src="https://anchor.fm/expertease/embed/episodes/Episode-1---Art-of-Experience-Design-with-Aditya-Karle-Expertease-eh360u/a-a2ormjc" height="204px" width="800px" frameborder="0" scrolling="no"></iframe>
 
-Listen On: [Spotify](https://open.spotify.com/episode/2QTq4UjyQoWx5jOZbgRQXr), [Anchor.fm](https://anchor.fm/expertease)
+Listen On: [Spotify](https://open.spotify.com/episode/2QTq4UjyQoWx5jOZbgRQXr), [Anchor.fm](https://anchor.fm/expertease), [Apple](https://podcasts.apple.com/in/podcast/expertease/id1524690855)
 
 ### Description
 In this first episode of [_Expertease_](https://anchor.fm/expertease), we have a light-hearted chat with [Aditya Karle](https://www.linkedin.com/in/adityakarle/), Head of Design at ThoughtWorks India, to deconstruct the art of Experience Design (XD). 
