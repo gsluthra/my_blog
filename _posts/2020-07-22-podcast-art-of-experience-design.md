@@ -2,7 +2,7 @@
 layout: post
 last-modified: '2020-07-22T11:00:00+05:30'
 
-title: "Art of Experience Design with Aditya Karle (Expertease Podcast)"
+title: "Art of Experience Design with Aditya Karle (Expertease Podcast #1)"
 subtitle: "A lighthearted chat on Experience Design and applying it to Bengaluru Airport"
 cover_image: general/podcast1/design-unsplash.jpg
 cover_image_caption: "Photo by Edho Pratama on Unsplash"
