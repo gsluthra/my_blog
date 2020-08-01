@@ -3,7 +3,7 @@ layout: post
 last-modified: '2020-08-01T11:00:00+05:30'
 
 title: "Exiting the Rat Race -  The Entrepreneurial Journey of Sandeep Nanu (Expertease Podcast #2)"
-subtitle: "A spirted chat on Sandeep Nanu's journey of building a consulting firm while balancing work and personal life, having fun all the way."
+subtitle: "A spirited chat on Sandeep Nanu's journey of building a consulting firm while balancing work and personal life, having fun all the way."
 cover_image: general/podcast2/david_izquierdo_unsplash.jpg
 cover_image_caption: "Photo by David Izquierdo on Unsplash"
 og-image: "general/podcast2/david_izquierdo_unsplash.jpg"
