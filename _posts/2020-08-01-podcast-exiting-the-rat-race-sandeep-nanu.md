@@ -19,7 +19,7 @@ author:
 
 <iframe src="https://anchor.fm/expertease/embed/episodes/Episode-2---Exiting-the-Rat-Race---The-Entrepreneurial-Journey-of-Sandeep-Nanu-ehha23/a-a2rcgob" height="204px" width="800px" frameborder="0" scrolling="no"></iframe>
 
-Listen On: [Spotify](https://open.spotify.com/episode/1FoVRmsLITegc3iCiGL7ex), [Anchor.fm](https://anchor.fm/expertease), [Apple](https://podcasts.apple.com/in/podcast/expertease/id1524690855)
+Listen On: [Spotify](https://open.spotify.com/episode/1FoVRmsLITegc3iCiGL7ex), [Anchor.fm](https://anchor.fm/expertease), [Apple](https://podcasts.apple.com/in/podcast/expertease/id1524690855), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yY2JhOGVmOC9wb2RjYXN0L3Jzcw==)
 
 ### Sandeep Nanu - Exiting the Rat Race
 In this second episode of [_Expertease_](https://anchor.fm/expertease), we have a spirited chat with [Sandeep Nanu](https://www.linkedin.com/in/sandeepnanu/?originalSubdomain=in), serial entrepreneur and founder of a brand and communication consulting firm [WriteClick](https://writeclick.in/). 
