@@ -24,4 +24,4 @@ Note that, these practices are from the perspective of a Java/Scala project, but
 adapted to other platforms too -- since the basic requirements are similar.
 
 To read my full blog, please go here:
-[Building Applications for Multiple Countries and Languages](http://techie-notebook.blogspot.in/2015/02/i18n-building-applications-for-multiple.html)
+[Building Applications for Multiple Countries and Languages](http://techie-notebook.blogspot.com/2015/02/i18n-building-applications-for-multiple.html)

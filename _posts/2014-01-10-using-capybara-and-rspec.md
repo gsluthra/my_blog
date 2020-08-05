@@ -22,4 +22,4 @@ I did not want to specify any HTML elements in my Capybara feature files, since 
 feature files brittle to HTML / CSS changes. It also violates the DRY principle and basic code hygiene.
 
 Read the full blog on my older blog site here:
-[Using Capybara and Rspec assertions in Page Objects](http://techie-notebook.blogspot.in/2014/01/using-capybara-and-rspec-assertions-in.html)
+[Using Capybara and Rspec assertions in Page Objects](http://techie-notebook.blogspot.com/2014/01/using-capybara-and-rspec-assertions-in.html)

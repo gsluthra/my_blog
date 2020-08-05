@@ -26,4 +26,4 @@ This blog attempts to raise awareness (with examples) for the need of Poka Yoke 
 within the Software Development process.
 
 Read the full blog on my older site:
-[POKA YOKE -- Applying Mistake Proofing to Software](http://techie-notebook.blogspot.in/2012/07/poka-yoke-applying-mistake-proofing-to.html)
+[POKA YOKE -- Applying Mistake Proofing to Software](http://techie-notebook.blogspot.com/2012/07/poka-yoke-applying-mistake-proofing-to.html)

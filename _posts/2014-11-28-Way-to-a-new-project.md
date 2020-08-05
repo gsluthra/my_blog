@@ -42,4 +42,4 @@ Have patience. It takes a minimum of 3 months to “feel” effective. And then 
 
 I know. It’s not a shortcut. It’s a path.
 
-_Originally published on my older blog [here](http://techie-notebook.blogspot.in/2014/11/the-way-to-new-project-becoming.html)._
+_Originally published on my older blog [here](http://techie-notebook.blogspot.com/2014/11/the-way-to-new-project-becoming.html)._

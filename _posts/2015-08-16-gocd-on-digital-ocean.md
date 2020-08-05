@@ -21,4 +21,4 @@ Today I experimented with installing ThoughtWorks GoCD Server and agent on a Dig
 Note that you will need to ensure that you setup [swap space on your digital ocean droplet](https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-centos-6),
 before proceeding with installing GoCD. 
 
-Read the steps here on my old blog: [Installing ThoughtWorks GoCD Server and Agent on Digital Ocean Droplet](http://techie-notebook.blogspot.in/2015/08/installing-thoughtworks-go-server-agent.html).
+Read the steps here on my old blog: [Installing ThoughtWorks GoCD Server and Agent on Digital Ocean Droplet](http://techie-notebook.blogspot.com/2015/08/installing-thoughtworks-go-server-agent.html).

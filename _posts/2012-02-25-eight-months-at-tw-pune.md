@@ -28,4 +28,4 @@ I joined ThoughtWorks as a Senior Consultant, and my role here is Programming, P
 Lets see.. what this means.
 
 Read the full blog on my older site:
-[8 Months at ThoughtWorks Pune](http://techie-notebook.blogspot.in/2012/02/8-months-at-thoughtworks-pune.html)
+[8 Months at ThoughtWorks Pune](http://techie-notebook.blogspot.com/2012/02/8-months-at-thoughtworks-pune.html)

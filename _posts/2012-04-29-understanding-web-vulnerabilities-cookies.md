@@ -25,4 +25,4 @@ As a continuation to the presentation, I felt that writing a blog on it would cr
 I had collected and make it available to a larger audience.
 
 Read the full blog on my older site:
-[Web Vulnerabilities - Phishing, Cookies, XSS and CSRF](http://techie-notebook.blogspot.in/2012/04/web-vulnerabilities-phishing-cookies.html)
+[Web Vulnerabilities - Phishing, Cookies, XSS and CSRF](http://techie-notebook.blogspot.com/2012/04/web-vulnerabilities-phishing-cookies.html)

@@ -16,7 +16,7 @@ author:
   image: general/gp-square-v.jpg
 ---
 
-My blog on Google Blogspot [techie-notebook.blogspot.in](http://techie-notebook.blogspot.in) hit the 100,000 views mark.
+My blog on Google Blogspot [techie-notebook.blogspot.com](http://techie-notebook.blogspot.com) hit the 100,000 views mark.
 I am super excited. But, I didn't really like the way my blog looked. I wanted it to be simple. I wanted it to be
 elegant. I wanted to render code, like it should. I wanted the programmer in me, to be in control. So I moved to
 [Jekyll](https://jekyllrb.com/).

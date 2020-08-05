@@ -33,4 +33,4 @@ This is what we all came up with.
 I may have used my discretion to sanitize the final list, therefore if you don't like the list -- blame me!
 
 Read the full blog on my older site:
-[Recommended Readings for Lateral Dev Hires at ThoughtWorks -- An Unofficial Opinion](http://techie-notebook.blogspot.in/2012/07/recommended-readings-for-lateral-dev.html)
+[Recommended Readings for Lateral Dev Hires at ThoughtWorks -- An Unofficial Opinion](http://techie-notebook.blogspot.com/2012/07/recommended-readings-for-lateral-dev.html)
