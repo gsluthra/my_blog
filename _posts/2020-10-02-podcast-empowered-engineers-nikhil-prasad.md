@@ -37,7 +37,7 @@ Nikhil talks about...
 
 **>** _"Once an engineer sees how a casual decision in code, has created a scalability problem in production, they gain an unforgettable experience for life."_
 
-**>** _"If you say you  are autonomous, but you penalise the first person that fails, 
+**>** _"If you say you  are autonomous, but you penalize the first person that fails, 
   then guess what  -- people are not going to pick, being autonomous, any more."_ 
 
 This is a really thought provoking episode that explains how Mastery, Autonomy and Purpose can act as foundational pillars on which an organisation can create an empowering engineering culture. 
