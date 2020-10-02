@@ -22,14 +22,13 @@ author:
 Listen On: [Spotify](https://open.spotify.com/show/1jA35fmXfHzNoiauVLoU8B), [Anchor.fm](https://anchor.fm/expertease), [Apple](https://podcasts.apple.com/in/podcast/expertease/id1524690855), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yY2JhOGVmOC9wb2RjYXN0L3Jzcw==)
 
 ### Nikhil Prasad - Cultivating an Empowered Engineering Culture
-In this third episode of [_Expertease_](https://anchor.fm/expertease), we have a insightful chat with [Nikhil Prasad](https://www.linkedin.com/in/nikhilprasad/?originalSubdomain=in), CTO and co-founder of [tavisca](https://tavisca.com), a 700 people, product company, that is considered to be a strong people-centric organisation in Pune.
+In this third episode of [_Expertease_](https://anchor.fm/expertease), we have an insightful chat with [Nikhil Prasad](https://www.linkedin.com/in/nikhilprasad/?originalSubdomain=in), CTO and co-founder of [tavisca](https://tavisca.com), a 700 people, product company, that is considered to be a strong people-centric organisation in Pune.
 
 <img src="/images/general/podcast3/nikhilprasad.jpg" alt="Nikhil Prasad" style="width: 300px;"/>
 
 Nikhil talks about...
 
 **>** _"If the why is ambitious & empowering, then it adds Purpose to the mission. And people need a purpose to be motivated."_
-
 
 **>** _"A fresher on your team, who likely doesn't understand how company economics work, is not going to be motivated by a mission to triple your revenue."_
 
