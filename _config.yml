@@ -8,6 +8,8 @@ info:
   about_image_caption: "Learning Pottery in Dharamshala, India"
   presentations_image:  general/pray-bells-2.jpg
   presentations_image_caption: "Prayer Bells, Dharamshala, India"
+  terms_conditions_image:  general/tobias-tullius-unsplash.jpg
+  terms_conditions_image_caption: "Photograph by Tobias Tullius (from unsplash.com)"  
   logo:         LL-logo.png
   og-image: general/ayemin-unsplash-small.jpg
   
@@ -45,7 +47,7 @@ url:         http://life-lessons.in
 # host 0.0.0.0 allows us to access site via sapphire.local or localhost or 127.0.0.1
 host: 0.0.0.0
 
-paginate:             20
+paginate:             50
 
 # safe mode must be disabled to use jekyll-assets.
 safe:               false

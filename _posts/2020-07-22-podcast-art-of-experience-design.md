@@ -36,9 +36,9 @@ In this first episode of [_Expertease_](https://anchor.fm/expertease), we have a
 ### Show Notes
 
 1. [ThoughtWorks Bangalore Airport case-study](https://www.thoughtworks.com/clients/bial)
-2. [Book: Design of Everyday Things - Don Norman](https://www.amazon.in/dp/B06XCCZJ4L/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-3. [Book: Steal Like an Artist](https://www.amazon.in/Steal-Like-Artist-Austin-Kleon/dp/0761169253) 
-4. [Book: Influence: The Psychology of Persuasion](https://www.amazon.in/Influence-Psychology-Persuasion-Business-Essentials-ebook/dp/B002BD2UUC/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+2. [Book: Design of Everyday Things - Don Norman](https://www.amazon.in/gp/product/0465050654/ref=as_li_tl?ie=UTF8&tag=gsluthra08-21&camp=3638&creative=24630&linkCode=as2&creativeASIN=0465050654&linkId=8ef362f0add0a98d2414a4e5b717258c)
+3. [Book: Steal Like an Artist](https://www.amazon.in/gp/product/B0074QGGK6/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B0074QGGK6&linkCode=as2&tag=gsluthra08-21&linkId=755024559d90ee4a2007f1ac40b2f228) 
+4. [Book: Influence: The Psychology of Persuasion](https://www.amazon.in/gp/product/B002BD2UUC/ref=as_li_tl?ie=UTF8&tag=gsluthra08-21&camp=3638&creative=24630&linkCode=as2&creativeASIN=B002BD2UUC&linkId=6269ab5438b6b20b491e8d07c90329f9)
 5.  [Conferences: IXD - interaction design](https://interaction20.ixda.org/), [Agile India](https://2020.agileindia.org/), [UX India](https://www.ux-india.org/), [Design Up](https://designup.io/attend/)
 6.  [Neri Oxman: Architect, Designer, Inventor](https://neri.media.mit.edu/neri-oxman.html)
 

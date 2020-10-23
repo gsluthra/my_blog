@@ -46,7 +46,7 @@ This is a really thought provoking episode that explains how Mastery, Autonomy a
 
 ### Show Notes
 
-1. [Drive - The Surprising Truth about what Motivates Us (YouTube Animation)](https://www.youtube.com/watch?v=u6XAPnuFjJc) and the [book](https://www.danpink.com/drive./) - Mastery, Autonomy & Purpose
+1. [Drive - The Surprising Truth about what Motivates Us (YouTube Animation)](https://www.youtube.com/watch?v=u6XAPnuFjJc) and the [book: Amazon Link](https://www.amazon.in/gp/product/B0033TI4BW/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=gsluthra08-21&creative=24630&linkCode=as2&creativeASIN=B0033TI4BW&linkId=a24874baae4b47c1bf3d9340dbf3c0be) - Mastery, Autonomy & Purpose
 2. [Poka Yoke - The Science of Mistake Proofing](https://life-lessons.in/2012/07/22/poke-yoke-mistake-proofing-software.html)
 3. [NYT - What Google learned from its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 4. [The Trust Battery - Podcast Interview with Shopify founder Toby Lutke](https://fs.blog/knowledge-project/tobi-lutke/) 
