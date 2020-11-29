@@ -52,7 +52,7 @@ This is a frank conversation with Nikhil, where he explains how one can be happy
 
 1. [Shokunin, Mastery and Craftsmanship - Medium blog](https://medium.com/@yoursproductly/jiro-dreams-of-sushi-what-it-means-to-be-shokunin-16b2a082a5af)
 2. [Ben Thompson - Stratecherry Blog](https://stratechery.com/), [Twitter](https://twitter.com/benthompson)
-3. [Hacker news - yComibinator](https://news.ycombinator.com/)
+3. [Hacker news - yCombinator](https://news.ycombinator.com/)
 4. [Knowledge Project - Podcast and Blog](https://fs.blog/knowledge-project/)
 5. [Charlie Munger - Articles and Blog](http://charliemungersays.com/)
 6. (Book) Principles by Ray Dalio - [Kindle](https://amzn.to/36h4xr3), [Hardcopy](https://amzn.to/36eNNAW)
