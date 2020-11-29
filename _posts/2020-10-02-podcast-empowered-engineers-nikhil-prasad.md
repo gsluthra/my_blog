@@ -21,7 +21,7 @@ author:
 
 Listen On: [Spotify](https://open.spotify.com/show/1jA35fmXfHzNoiauVLoU8B), [Anchor.fm](https://anchor.fm/expertease), [Apple](https://podcasts.apple.com/in/podcast/expertease/id1524690855), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yY2JhOGVmOC9wb2RjYXN0L3Jzcw==)
 
-### Nikhil Prasad - Cultivating an Empowered Engineering Culture
+### Nikhil Prasad - Cultivating an Empowered Engineering Culture (Part1)
 In this third episode of [_Expertease_](https://anchor.fm/expertease), we have an insightful chat with [Nikhil Prasad](https://www.linkedin.com/in/nikhilprasad/?originalSubdomain=in), CTO and co-founder of [tavisca](https://tavisca.com), a 700 people, product company, that is considered to be a strong people-centric organisation in Pune.
 
 <img src="/images/general/podcast3/nikhilprasad.jpg" alt="Nikhil Prasad" style="width: 300px;"/>
@@ -50,6 +50,10 @@ This is a really thought provoking episode that explains how Mastery, Autonomy a
 2. [Poka Yoke - The Science of Mistake Proofing](https://life-lessons.in/2012/07/22/poke-yoke-mistake-proofing-software.html)
 3. [NYT - What Google learned from its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 4. [The Trust Battery - Podcast Interview with Shopify founder Toby Lutke](https://fs.blog/knowledge-project/tobi-lutke/) 
+
+### Insights on Career, Mastery and Craftsmanship (Part 2)
+Listen to Part 2 of this episode with Nikhil, on his principles of building a meaningful engineering career here: [Part 2 of the podcast with Nikhil](/2020/11/29/podcast-building-engineering-career-nikhil-prasad.html).
+
 
 ### Credits
 
