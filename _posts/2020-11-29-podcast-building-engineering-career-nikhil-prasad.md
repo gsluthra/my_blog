@@ -6,7 +6,7 @@ title: "Insights on Career, Mastery and Craftsmanship - Nikhil Prasad (Experteas
 subtitle: "A frank conversation with Nikhil Prasad, CTO Tavisca, on his principles for building a meaninful engineering career"
 cover_image: general/podcast4/johnathan-macedo-unsplash.jpg
 cover_image_caption: "Photo by Johnathan Macedo on Unsplash"
-og-image: "general/podcast3/robert-collins-unsplash.jpg"
+og-image: "general/podcast4/johnathan-macedo-unsplash.jpg"
 
 excerpt: "In the fourth episode of Expertease podcast, we continue our conversation with Nikhil Prasad, CTO and co-founder of tavisca on his personal beliefs on building an impactful and meaningful engineering career, and the mental models to making decisions at the C-level."
 
